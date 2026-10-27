@@ -1,0 +1,13 @@
+Use case: ui-mockup.
+Create ONE complete high-fidelity portrait mobile app screen (about 1024x2048) for the Korean Flutter app "pedalboard". Input image is a STYLE REFERENCE ONLY: the previously approved physical pedalboard Tetris concept. Generate a NEW single screen, never copy the two-phone presentation or its external captions.
+Product purpose: arrange actual-size guitar pedal footprints within an actual-size pedalboard; assess space and fit. This is NOT an audio simulator. No audio control knobs/sliders, playback, gain controls or signal-chain sequencer outside the pedal illustrations.
+Design system: edge-to-edge app screenshot, no physical phone bezel, no surrounding presentation margin, no perspective, complete top status bar 9:41 and bottom home indicator, nothing cropped. Dark forest-charcoal #101512 background, #1B231E surfaces, pale mint #B7F7C6 primary buttons, offwhite text, quiet grey secondary labels, thin-line icons. Same practical premium tool aesthetic as reference. Modern legible Korean sans-serif typography, comfortable mobile touch targets, 20px equivalent screen gutters, consistent rounded corners. Precise and restrained, no gradients or decorative marketing copy. Original generic pedal illustrations, no real manufacturer pedal logos or copied product art. Pedaltrain names are plain text on product-selection UI only, no logo.
+All dimension labels are WIDTH × DEPTH, millimeters. Render supplied numerical strings EXACTLY, do not round or rewrite them. The only custom-board example is 600 × 320 mm. Pedaltrain Classic 2 example is 609.6 × 317.5 mm. These must never be interchanged.
+
+SCREEN: Create custom board.
+Back arrow, centered title "새 보드". Same segmented selector "제품 프리셋" and "커스텀"; 커스텀 selected mint.
+Label "보드 이름" with filled input "연습실 보드".
+Two adjacent large numeric fields labeled "가로" and "깊이", values exactly "600" and "320", visible mm unit suffix each. Small link with chain icon between or below fields, label "비율 잠금", default off.
+Large central custom-board preview in a dotted-grid inset. It is a plain rectangular deck, not a manufactured rail model. Exact visual ratio 600:320 (1.875:1), dimension arrows label "600 mm" horizontally above and "320 mm" vertically beside. Muted corners, subtle mint perimeter, no pedals. Label above "크기 미리보기".
+Below preview optional color selector label "보드 색상" with four swatches black, charcoal, grey, wood beige; charcoal selected with mint ring. Subtle helper "가로와 깊이를 입력하면 비율이 반영돼요."
+Bottom wide mint CTA "보드 만들기". No keyboard displayed, no third height field, no product model name in the custom preview. Spacious purposeful form.

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01",
+    "title": "내 보드",
+    "file": "01_my_boards_v2.png",
+    "description": "저장된 보드 미리보기와 새 보드 만들기",
+    "width": 887,
+    "height": 1774,
+    "sha256": "ce2e8727de0064d6d7621dd61cd0228c8c6a6753a6d082c0032dd0ba974d342e"
+  },
+  {
+    "id": "02",
+    "title": "제품 프리셋",
+    "file": "02_board_preset.png",
+    "description": "Pedaltrain 모델 선택과 크기 확인",
+    "width": 887,
+    "height": 1774,
+    "sha256": "6af0a65e46fa70f4e080898952791b386cf16cc488fc2ed408281284ca0ec511"
+  },
+  {
+    "id": "03",
+    "title": "커스텀 보드",
+    "file": "03_board_custom.png",
+    "description": "가로·깊이 직접 입력",
+    "width": 887,
+    "height": 1774,
+    "sha256": "1c034a6d0e8de95c9c834cac6047519f1ee96f869a0870d733b7da91d72831b4"
+  },
+  {
+    "id": "04",
+    "title": "배치 편집기",
+    "file": "04_board_editor.png",
+    "description": "실제 크기 배치·회전·여유 공간 확인",
+    "width": 887,
+    "height": 1774,
+    "sha256": "d210d54d5419d63b5e66802d8669d7aad0ee4fb7872a2edb8f35b90cd8f5d640"
+  },
+  {
+    "id": "05",
+    "title": "페달 추가",
+    "file": "05_add_pedal.png",
+    "description": "검색과 크기별 제품 추가",
+    "width": 887,
+    "height": 1774,
+    "sha256": "ee29c85652a348e4abac37a0ba88088f0b81f29fc879548c7d162020e96dcfd8"
+  },
+  {
+    "id": "06",
+    "title": "커스텀 페달",
+    "file": "06_custom_pedal.png",
+    "description": "제품 크기·색상·잭 여유 입력",
+    "width": 887,
+    "height": 1774,
+    "sha256": "071596c81183277d033955000bc1f015d957dbc62183654f950d980a6b1e08d4"
+  }
+]

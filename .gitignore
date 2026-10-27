@@ -1,0 +1,37 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+**/__pycache__/
+*.pyc
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+.DS_Store
+.idea/
+*.iml
+
+# Local signing credentials and environment settings
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.mobileprovision
+*.keystore
+*.jks
+*.pem
+
+# Research downloads are not app-distribution assets
+/pedal_assets/
+/pedal_assets_review_package.zip
+
+# Local machine captures can include device details
+/docs/design/paper-v1/simulator-home.png
+
+# Duplicate design export bundles
+/docs/design/*.zip
